@@ -1,4 +1,4 @@
-To remove `node_modules` from your GitHub repository, follow these steps:
+#### To remove `node_modules` from your GitHub repository, follow these steps:
 
 ### 1. Remove `node_modules` Folder from the Repository
 - First, delete the `node_modules` folder from your local project directory:
